@@ -1,0 +1,8 @@
+# NETBEANS' FILES
+nbproject/
+
+# COMPOSER
+vendor/
+
+# PHPUnit
+phpunit.xml/
